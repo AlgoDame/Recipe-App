@@ -7,3 +7,6 @@ Users can search for a recipe by entering the search query into the search bar.
 ## Technologies used:
 1. Reactjs
 2. CSS
+
+### Heroku link
+> [Recipe-app](https://edamam-api-recipe-app.herokuapp.com/)

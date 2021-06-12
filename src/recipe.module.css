@@ -12,7 +12,13 @@
 }
 
 ol li {
-    padding: 5px;
+   padding-left: 3em;
+   padding-right: 3em;
+   padding-bottom: 0.5em;
+   padding-top: 0.5em;
+   text-align: left;
+   overflow-wrap: break-word;
+
     
 }
 .image{

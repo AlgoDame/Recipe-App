@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Recipe from './recipes';
 import './App.css';
+import dotenv from 'dotenv';
+dotenv.config();
 
 function App() {
   const appID = "7dd87bc3";
